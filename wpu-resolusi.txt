@@ -2,3 +2,6 @@ WPU RESOLUSI
 -Konsisten untuk membuat konten 
 -Membuat platform untuk pengolahan vidio
 -Membuat form diskusi
+-Membuat tutorial vidio
+-Belajar Web
+-Membuat konten 
